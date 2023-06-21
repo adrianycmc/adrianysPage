@@ -7,8 +7,8 @@ Este projeto teve como objetivo aprender sobre HTML e CSS e criar minha página 
 | :sparkles: Nome  | **Minha página/portfolio**
 | ----------  | --- |
 | :label: Tecnologias | HTML 5 e CSS 3
-| :rocket: URL       | 
-| :fire: Desafio     | 
+| :rocket: URL       | [Código](https://adrianycmc.github.io/adrianysPage/index.html)
+| :fire: Desafio     | [adrianysPage](https://adrianycmc.github.io/adrianysPage/)
 
 ## Detalhes do projeto
 

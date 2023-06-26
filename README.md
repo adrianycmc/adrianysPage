@@ -9,6 +9,7 @@ Este projeto teve como objetivo aprender sobre HTML e CSS e criar minha página 
 | :label: Tecnologias | HTML 5 e CSS 3
 | :rocket: URL       | [Código](https://adrianycmc.github.io/adrianysPage/index.html)
 | :fire: Desafio     | [adrianysPage](https://adrianycmc.github.io/adrianysPage/)
+| 🌐 Status | Em construção
 
 ## Detalhes do projeto
 

@@ -45,7 +45,7 @@ body {
 
 
 .apresentacao {
-    padding: 6% 15%;
+    padding: 6% 15% 10%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -114,7 +114,7 @@ body {
 }
 
 .rodape {
-    padding: 15px;
+    padding: 20px;
     color: var(--cor-primaria);
     background-color: var(--cor-terciaria);
     text-align: center;

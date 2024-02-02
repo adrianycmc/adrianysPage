@@ -10,15 +10,7 @@ Construi o design no Figma e a trouxe para o mundo web utilizando HTML e CSS.
 <br>
 
 ## 💻 Tecnologias utilizadas
-<a href="https://www.w3.org/html/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html5" height="40" width="40">
-</a>
-<a href="https://www.w3schools.com/css/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Css3" height="40" width="40">
-</a>
-<a href="https://www.figma.com/" target="blank">
-<img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="40" width="40">
-</a>
+<img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/HTML.svg" alt="Html5" height="40" width="40"> . <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/CSS.svg" alt="Css3" height="40" width="40"> . <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/Figma-Dark.svg" alt="Css3" height="40" width="40">
 <br>
 <br>
 

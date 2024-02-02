@@ -36,14 +36,23 @@ Construi o design no Figma e a trouxe para o mundo web utilizando HTML e CSS.
 
 ## 🔎 Detalhes do projeto
 
-😄 Este é um projeto de cunho educacional e faz parte da formação: **"A partir do zero: HTML e CSS para projetos web”** da Alura. 
+📌 Este é um projeto de cunho educacional e faz parte da formação: **"A partir do zero: HTML e CSS para projetos web”** da Alura. 
 <br>
+<br>
+
+## 📜 Certificados dos cursos que fiz para desenvolver este projeto
+[HTML e CSS: Classes, posicionamento e flexbox](https://cursos.alura.com.br/certificate/adrianycmc/html-css-classes-posicionamento-flexbox)
+<br>
+[HTML e CSS: Cabeçalho, footer e variáveis CSS](https://cursos.alura.com.br/certificate/adrianycmc/html-css-cabecalho-footer-variaveis-css)
+<br>
+[HTML e CSS: Trabalhando com responsividade e publicação de projetos](https://cursos.alura.com.br/certificate/adrianycmc/html-css-responsividade-publicacao-projetos)
+<br>
+
 <br>
 
 <p align="left">
   Caso queira entrar em contato: ⤵️
 </p>
-
 <p align="left">
 
   

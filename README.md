@@ -34,12 +34,14 @@ Construi o design no Figma e a trouxe para o mundo web utilizando HTML e CSS.
 <br>
 <br>
 
-## Detalhes do projeto
+## 🔎 Detalhes do projeto
 
-😄 Este é um projeto de cunho educacional e faz parte da formação: "A partir do zero: HTML e CSS para projetos web" da Alura.
+😄 Este é um projeto de cunho educacional e faz parte da formação: **"A partir do zero: HTML e CSS para projetos web”** da Alura. 
+<br>
+<br>
 
 <p align="left">
-  Caso queira trocar uma ideia comigo: ⤵️
+  Caso queira entrar em contato: ⤵️
 </p>
 
 <p align="left">
